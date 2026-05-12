@@ -1,1 +1,2 @@
 -- Add your SQL here
+SELECT * FROM Employee ORDER BY LOCATION ASC, SALARY DESC;
